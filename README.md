@@ -15,49 +15,6 @@
 - 🤖 Discord bots and server automation
 - 📖 Always shipping something new
 
-<br/>
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lipzadaxlk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipzadaxlk&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lipzadaxlk&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-### 📌 Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|:---|:---|:---:|
-| [🎬 medal-dl](https://github.com/lipzadaxlk/medal-dl) | Bookmarklet to download Medal.tv clips via yt-dlp | HTML |
-| [🔧 Discord-Server-Cloner-2x](https://github.com/lipzadaxlk/Discord-Server-Cloner-2x) | Discord server cloner | Discord API |
-
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b27&height=100&section=footer" />
 </div>
