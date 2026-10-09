@@ -1,0 +1,82 @@
+{
+  "login": "lipzadaxlk",
+  "alias": { "en": "TOOLSMITH FOR HIRE", "pt": "ferreiro de aluguel" },
+  "tagline": {
+    "en": "I build tools for people who play.",
+    "pt": "eu faço ferramentas pra quem joga."
+  },
+  "about": {
+    "who": {
+      "en": "Brazilian dev. I forge Discord bots, gaming utilities and AI agents, then use them in the field.",
+      "pt": "dev brasileiro. forjo bots de Discord, utilitários de jogo e agentes de IA, e uso tudo em campo."
+    },
+    "now": [
+      { "name": "Valkis", "en": "ranked coach, in production", "pt": "coach de ranked, em produção" },
+      { "name": "AI Orchestrator", "en": "routes work between AI agents", "pt": "distribui tarefa entre agentes de IA" },
+      { "name": "bud-sport", "en": "just shipped, open source", "pt": "acabou de sair, open source" }
+    ],
+    "favorite": { "label_en": "FAVORITE CHARACTER", "label_pt": "personagem favorito", "name": "Toji Fushiguro" }
+  },
+  "hud_subtitle_pt": "registro de missão: o que eu fiz por último no GitHub, atualizado a cada 6 horas",
+    "contact_issue": "https://github.com/lipzadaxlk/lipzadaxlk/issues/new",
+  "arsenal": [
+    { "tech": "PYTHON", "art": "slot:weapon-1", "weapon": { "en": "terminal cleaver", "pt": "cutelo-terminal" },
+      "used": "AI Orchestrator, 3 Discord bots, this profile" },
+    { "tech": "POWERSHELL", "art": "slot:weapon-2", "weapon": { "en": "wrench sledge", "pt": "marreta-chave" },
+      "used": "Otimizador LPEX, AI Orchestrator" },
+    { "tech": "CLAUDE CODE", "art": "slot:weapon-3", "weapon": { "en": "stiletto and keycaps", "pt": "estilete de solda e teclas" },
+      "used": "bud-sport, AI Orchestrator" },
+    { "tech": "TYPESCRIPT", "art": "draw:crossbow", "weapon": { "en": "typed crossbow", "pt": "besta tipada" }, "used": "Valkis" },
+    { "tech": "NEXT.JS", "art": "draw:routeblade", "weapon": { "en": "route blade", "pt": "lâmina de rota" }, "used": "Valkis" },
+    { "tech": "REACT", "art": "draw:chakram", "weapon": { "en": "re-render chakram", "pt": "chakram de render" }, "used": "Valkis" },
+    { "tech": "NODE.JS", "art": "draw:knuckles", "weapon": { "en": "hex knuckles", "pt": "soco-inglês sextavado" }, "used": "Express APIs" },
+    { "tech": "VERCEL", "art": "draw:arrow", "weapon": { "en": "deploy arrow", "pt": "flecha de deploy" }, "used": "Valkis" },
+    { "tech": "HTML/JS", "art": "draw:crowbar", "weapon": { "en": "page crowbar", "pt": "pé de cabra" }, "used": "medal-dl" },
+    { "tech": "YT-DLP", "art": "draw:hook", "weapon": { "en": "clip hook", "pt": "gancho de clipe" }, "used": "medal-dl" },
+    { "tech": "DISCORD.PY", "art": "draw:horn", "weapon": { "en": "war horn", "pt": "corneta de guerra" }, "used": "3 Discord bots" },
+    { "tech": "GH ACTIONS", "art": "draw:saw", "weapon": { "en": "cron saw", "pt": "serra de cron" }, "used": "this profile, every 6 h" }
+  ],
+  "contracts": [
+    { "repo": "bud-sport", "art": "contract-1", "type": { "en": "agent skill", "pt": "skill de agente" },
+      "target": { "en": "the median, mode-collapsed output of AI", "pt": "a saída mediana e repetida da IA" } },
+    { "repo": "medal-dl", "art": "contract-2", "type": { "en": "bookmarklet", "pt": "bookmarklet" },
+      "target": { "en": "Medal.tv clips, grabbed in one click", "pt": "clipes do Medal.tv, num clique" } },
+    { "name": "Valkis", "art": "contract-3", "type": { "en": "ranked coach", "pt": "coach de ranked" },
+      "target": { "en": "a coach that reads your ranked games", "pt": "um coach que lê suas ranqueadas" } },
+    { "name": "AI Orchestrator", "art": "contract-4", "type": { "en": "agent orchestrator", "pt": "orquestrador de agentes" },
+      "target": { "en": "the right AI agent for each task", "pt": "o agente de IA certo pra cada tarefa" } }
+  ],
+  "public_slots": [
+    {
+      "repo": "bud-sport",
+      "type": "agent skill",
+      "blurb": {
+        "en": "Breaks the median, mode-collapsed output of AI.",
+        "pt": "quebra a saída mediana e repetida da IA."
+      }
+    },
+    {
+      "repo": "medal-dl",
+      "type": "bookmarklet",
+      "blurb": {
+        "en": "Grabs Medal.tv clips in one click, via yt-dlp.",
+        "pt": "baixa clipes do Medal.tv num clique, via yt-dlp."
+      }
+    }
+  ],
+  "locked_slots": [
+    {
+      "name": "Valkis",
+      "category": { "en": "Ranked coach", "pt": "coach de ranked" }
+    },
+    {
+      "name": "AI Orchestrator",
+      "category": { "en": "AI agent orchestrator", "pt": "orquestrador de agentes de IA" }
+    },
+    {
+      "name": "Otimizador LPEX",
+      "category": { "en": "PC tuning for competitive FPS", "pt": "otimizador de PC pra FPS competitivo" }
+    }
+  ],
+  "classified_slots": 1
+}
